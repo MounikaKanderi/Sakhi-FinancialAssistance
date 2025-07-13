@@ -25,4 +25,4 @@ This contains everything you need to run your app locally.
    `npm run dev`
 
 # App is hosted on Netlify: 
-sakhi-financial-assistance.netlify.app
+[sakhi-financial-assistance.netlify.app](https://sakhi-financial-assistance.netlify.app/)
